@@ -15,7 +15,9 @@ The Lab of Inter-disciplinary | Better Together, NASA 2020 Hackathon.
 中文說明:
 The Lab of Inter-disciplinary | Better Together, NASA 2020 Hackathon.
 (https://2020.spaceappschallenge.org/challenges/confront/better-together/teams/the-lab-of-inter-disciplinary/members)
+
 跨領域研究室, Better Together主題, NASA 2020 黑客松.
+務必在安裝本系統時，確定您的OpenVINO環境運作正常.
 
 1. 首先系統必須安裝好 Intel OpenVINO, 建議的版本是 2019.R4版, 下載網址(https://software.intel.com/content/www/us/en/develop/tools/openvino-toolkit.html)
 2. png_split*.* 檔案內含許多的分開的壓縮檔, 共有6個檔案, 必須完整下載完以後才能解壓縮. 

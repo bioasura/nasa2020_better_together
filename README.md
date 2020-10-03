@@ -1,5 +1,8 @@
 # nasa2020_better_together
 
+The Lab of Inter-disciplinary | Better Together, NASA 2020 Hackathon.
+(https://2020.spaceappschallenge.org/challenges/confront/better-together/teams/the-lab-of-inter-disciplinary/members)
+
 1. First, install the Intel OpenVINO. (The suggestion version is 2019.R4, https://software.intel.com/content/www/us/en/develop/tools/openvino-toolkit.html)
 2. The png_split.zip contains many parts. When you download these 6 png_split*.z* complete, you can create a directory named "nasa2020".
 3. move the png_split*.z* to nasa2020 directory, then extract these 6 files. The png files will extract into the "png" directory.
@@ -10,6 +13,10 @@
 ====================================================================================
 
 中文說明:
+The Lab of Inter-disciplinary | Better Together, NASA 2020 Hackathon.
+(https://2020.spaceappschallenge.org/challenges/confront/better-together/teams/the-lab-of-inter-disciplinary/members)
+跨領域研究室, Better Together主題, NASA 2020 黑客松.
+
 1. 首先系統必須安裝好 Intel OpenVINO, 建議的版本是 2019.R4版, 下載網址(https://software.intel.com/content/www/us/en/develop/tools/openvino-toolkit.html)
 2. png_split*.* 檔案內含許多的分開的壓縮檔, 共有6個檔案, 必須完整下載完以後才能解壓縮. 
    你可以在目前的目錄下建立一個子目錄稱為nasa2020
